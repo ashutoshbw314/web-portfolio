@@ -1,0 +1,29 @@
+body {
+  font-family: 'Tajawal', sans-serif;
+  background: #222;
+  color: #eee;
+}
+
+h1 {
+  font-size: 40px;
+}
+
+.highlight-name {
+  color: orange;
+  font-weight: bold;
+}
+
+h1 div:last-child {
+  margin-left: 30px;
+}
+
+.half-width {
+  width: 40%;
+  float: left;
+  margin-left: 5%;
+  padding-left: 2%;
+}
+
+.half-width img {
+  width: 80%;
+}
