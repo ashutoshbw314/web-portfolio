@@ -66,6 +66,10 @@ p {
   background-position: right;
 }
 
+.dream-area .half-width:last-child {
+  padding-top: 150px;
+}
+
 .experience-area {
   background-image: url("images/exp-bg.png");
   background-repeat: no-repeat;
